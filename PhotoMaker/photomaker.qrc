@@ -1,0 +1,199 @@
+<RCC>
+	<qresource prefix="/PhotoMaker">
+		<file>Resources/images/buildinui/BarLayout.png</file>
+		<file>Resources/images/buildinui/HBarLayout.png</file>
+		<file>Resources/images/buildinui/computer.png</file>
+		<file>Resources/images/buildinui/controlpannel.png</file>
+		<file>Resources/images/buildinui/desktop.png</file>
+		<file>Resources/images/buildinui/drive.png</file>
+		<file>Resources/images/buildinui/folder.png</file>
+		<file>Resources/images/buildinui/leftpane.png</file>
+		
+		<file>Resources/images/buildinui/close_wind_btn.png</file>
+		<file>Resources/images/buildinui/restor_wind_btn.png</file>
+		<file>Resources/images/buildinui/max_wind_btn.png</file>
+		<file>Resources/images/buildinui/min_wind_btn.png</file>
+		
+		<file>Resources/images/buildinui/max_btn.png</file>
+		<file>Resources/images/buildinui/max_btn_hover.png</file>
+		<file>Resources/images/buildinui/min_btn.png</file>
+		<file>Resources/images/buildinui/min_btn_hover.png</file>
+		<file>Resources/images/buildinui/close_btn.png</file>
+		<file>Resources/images/buildinui/close_btn_hover.png</file>
+
+		<file>Resources/images/buildinui/menu_btn.png</file>
+		<file>Resources/images/buildinui/menu_btn_hover.png</file>
+		<file>Resources/images/buildinui/menu_long_btn.png</file>
+		<file>Resources/images/buildinui/menu_long_btn_hover.png</file>
+		
+		<file>Resources/images/buildinui/pagectrlbk.png</file>
+		<file>Resources/images/buildinui/TitleBarBackGround.png</file>
+		<file>Resources/images/buildinui/titlebtnbg.png</file>
+		<file>Resources/images/buildinui/toolbarbackground.png</file>
+		<file>Resources/images/buildinui/white.png</file>
+		<file>Resources/images/buildinui/wizard_itm_sel_background.png</file>
+		<file>Resources/images/buildinui/wizard_itm_unsel_background.png</file>
+
+		<file>Resources/images/buildinui/textbold.png</file>
+		<file>Resources/images/buildinui/textitalic.png</file>
+		<file>Resources/images/buildinui/textunder.png</file>
+
+		<file>Resources/images/buildinui/texttop.png</file>
+		<file>Resources/images/buildinui/textvcenter.png</file>
+		<file>Resources/images/buildinui/textbottom.png</file>
+		<file>Resources/images/buildinui/textleft.png</file>
+		<file>Resources/images/buildinui/textcenter.png</file>
+		<file>Resources/images/buildinui/textright.png</file>
+		<file>Resources/images/buildinui/textjustify.png</file>
+
+		<file>Resources/images/buildinui/curs/switchimg.png</file>
+		<file>Resources/images/buildinui/curs/switchpage.png</file>
+		<file>Resources/images/buildinui/curs/rotate.png</file>
+
+		<file>Resources/images/buildinui/layout/8x5background.png</file>
+		<file>Resources/images/buildinui/layout/10x15background.png</file>
+		<file>Resources/images/buildinui/layout/Calendar.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6bg.png</file>
+
+
+		<file>Resources/images/buildinui/layout/Calendar4x6/CalA4x6FrontPg.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/CalA4x6FrontPgBorder.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/CalA4FrontPg.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/CalA4FrontPgBorder.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/CalA5FrontPg.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/CalA5FrontPgBorder.png</file>
+		
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout1/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout1/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout1/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout1/Layout4.png</file>
+		
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout2/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout2/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout2/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout2/Layout4.png</file>
+
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout3/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout3/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout3/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout3/Layout4.png</file>
+
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout4/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout4/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout4/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/Calendar4x6/Layout4/Layout4.png</file>
+
+
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout1/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout1/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout1/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout1/Layout4.png</file>
+
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout4.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout5.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout2/Layout6.png</file>
+
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout3/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout3/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout3/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout3/Layout4.png</file>
+
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout4/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout4/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout4/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA4/Layout4/Layout4.png</file>
+
+
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout4.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout5.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout1/Layout6.png</file>
+
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout2/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout2/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout2/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout2/Layout4.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout2/Layout5.png</file>
+
+
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout3/Layout1.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout3/Layout2.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout3/Layout3.png</file>
+		<file>Resources/images/buildinui/layout/CalendarA5/Layout3/Layout4.png</file>
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/TraditionA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/TraditionB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/TraditionC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/TraditionD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/TraditionPanorama.png</file>
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonE.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/HorizonPanorama.png</file>
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/VerticonA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/VerticonB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/VerticonC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/VerticonD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/border/VerticonPanorama.png</file>
+
+
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/FullsizeA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/FullsizeB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/FullsizeC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/FullsizeD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/FullsizePanorama.png</file>
+
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/TraditionA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/TraditionB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/TraditionC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/TraditionD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/TraditionPanorama.png</file>
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonE.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/HorizonPanorama.png</file>
+
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/VerticonA.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/VerticonB.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/VerticonC.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/VerticonD.png</file>
+		<file>Resources/images/buildinui/layout/Photobook8x5/borderless/VerticonPanorama.png</file>
+
+		<file>Resources/images/buildinui/layout/pocketbook4x3/Fullsizesingle.png</file>
+		<file>Resources/images/buildinui/layout/pocketbook4x3/FullsizePanorama.png</file>
+		<file>Resources/images/buildinui/layout/pocketbook4x3/bordersingle.png</file>
+		<file>Resources/images/buildinui/layout/pocketbook4x3/BorderPanorama.png</file>
+
+		<file>Resources/images/buildinui/color/Lightgrey.png</file>
+		<file>Resources/images/buildinui/color/Grey.png</file>
+		<file>Resources/images/buildinui/color/DarkGrey.png</file>
+		<file>Resources/images/buildinui/color/Black.png</file>
+		<file>Resources/images/buildinui/color/BrightYellow.png</file>
+		<file>Resources/images/buildinui/color/Yellow.png</file>
+		<file>Resources/images/buildinui/color/Orange.png</file>
+		<file>Resources/images/buildinui/color/Pink.png</file>
+		<file>Resources/images/buildinui/color/LightPink.png</file>
+		<file>Resources/images/buildinui/color/Blue.png</file>
+		<file>Resources/images/buildinui/color/Lightblue.png</file>
+		<file>Resources/images/buildinui/color/lightgreen.png</file>
+		<file>Resources/images/buildinui/color/Green.png</file>
+		<file>Resources/images/buildinui/color/Customer.png</file>
+
+
+
+	</qresource>
+</RCC>

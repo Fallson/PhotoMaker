@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CalMonthYearSheet</class>
+ <widget class="QWidget" name="CalMonthYearSheet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>721</width>
+    <height>747</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>CalMonthYearSheet</string>
+  </property>
+  <widget class="QGroupBox" name="colorGroupBox">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>330</y>
+     <width>541</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Colors</string>
+   </property>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>30</y>
+      <width>61</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Row color</string>
+    </property>
+   </widget>
+   <widget class="QtColorComboBox" name="cbrowcolor">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>30</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="fontGroupBox">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>160</y>
+     <width>541</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Font</string>
+   </property>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>30</y>
+      <width>201</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_3">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="btnBold">
+       <property name="text">
+        <string>b</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="btnUnderLine">
+       <property name="text">
+        <string>u</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="btnItalic">
+       <property name="text">
+        <string>i</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>80</y>
+      <width>351</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_4">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="btnAlignLeft">
+       <property name="text">
+        <string>l</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="btnAlignHCenter">
+       <property name="text">
+        <string>hc</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="btnAlignRight">
+       <property name="text">
+        <string>r</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="btnAlignTop">
+       <property name="text">
+        <string>t</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="4">
+      <widget class="QPushButton" name="btnAlignVCenter">
+       <property name="text">
+        <string>vc</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="5">
+      <widget class="QPushButton" name="btnAlignBottom">
+       <property name="text">
+        <string>b</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QtColorComboBox" name="cbfontcolor">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>30</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QFontComboBox" name="fontComboBox">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>30</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>80</y>
+      <width>116</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>Orientation in cell</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>Font height in cell</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>110</y>
+      <width>79</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_5">
+     <item row="0" column="0">
+      <widget class="QLineEdit" name="fontheightIncell"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLabel" name="label_3">
+       <property name="text">
+        <string>%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>420</y>
+     <width>541</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Line Spacing</string>
+   </property>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>30</y>
+      <width>255</width>
+      <height>56</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_7">
+     <item row="0" column="0">
+      <widget class="QLineEdit" name="lineleftSpace"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="linetopSpace"/>
+     </item>
+     <item row="0" column="2">
+      <widget class="QLineEdit" name="linerightSpace"/>
+     </item>
+     <item row="0" column="3">
+      <widget class="QLineEdit" name="linebottomSpace"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLineEdit" name="lineleftPad"/>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLineEdit" name="linetopPad"/>
+     </item>
+     <item row="1" column="2">
+      <widget class="QLineEdit" name="linerightPad"/>
+     </item>
+     <item row="1" column="3">
+      <widget class="QLineEdit" name="linebottomPad"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>249</width>
+     <height>109</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QCheckBox" name="cbShowMonthYear">
+      <property name="text">
+       <string>Show Month &amp; Year</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_6">
+        <property name="text">
+         <string>Size of region</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="QLineEdit" name="monthYearSize"/>
+        </item>
+        <item row="0" column="1">
+         <widget class="QLabel" name="label_11">
+          <property name="text">
+           <string>%</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QCheckBox" name="cbShowOnBottom">
+      <property name="text">
+       <string>Show region on bottom</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QCheckBox" name="cbShowMonthYeardoulbeLine">
+      <property name="text">
+       <string>Show month and year double space</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>450</y>
+     <width>187</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_3">
+    <item>
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>Spacing left,top,right,bottom</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string>Padding left,top,right,bottom</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <zorder>fontGroupBox</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>groupBox_3</zorder>
+  <zorder>colorGroupBox</zorder>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>QtColorComboBox</class>
+   <extends>QComboBox</extends>
+   <header>qtcolorcombobox.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>cbShowMonthYear</tabstop>
+  <tabstop>monthYearSize</tabstop>
+  <tabstop>cbShowOnBottom</tabstop>
+  <tabstop>cbShowMonthYeardoulbeLine</tabstop>
+  <tabstop>fontComboBox</tabstop>
+  <tabstop>cbfontcolor</tabstop>
+  <tabstop>btnBold</tabstop>
+  <tabstop>btnItalic</tabstop>
+  <tabstop>btnUnderLine</tabstop>
+  <tabstop>btnAlignLeft</tabstop>
+  <tabstop>btnAlignHCenter</tabstop>
+  <tabstop>btnAlignRight</tabstop>
+  <tabstop>btnAlignTop</tabstop>
+  <tabstop>btnAlignVCenter</tabstop>
+  <tabstop>btnAlignBottom</tabstop>
+  <tabstop>fontheightIncell</tabstop>
+  <tabstop>cbrowcolor</tabstop>
+  <tabstop>lineleftSpace</tabstop>
+  <tabstop>linetopSpace</tabstop>
+  <tabstop>linerightSpace</tabstop>
+  <tabstop>linebottomSpace</tabstop>
+  <tabstop>lineleftPad</tabstop>
+  <tabstop>linetopPad</tabstop>
+  <tabstop>linerightPad</tabstop>
+  <tabstop>linebottomPad</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

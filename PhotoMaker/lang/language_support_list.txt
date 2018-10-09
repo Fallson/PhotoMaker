@@ -1,0 +1,85 @@
+
+1. English 
+	photomaker_en.qm
+
+2. Simple Chinese
+	photomaker_zh-cn.qm
+
+
+3. Traditional Chinese 
+	photomaker_zh-tw.qm
+
+4. Traditional Chinese 
+	photomaker_zh-hk.qm
+
+5. Finnish 
+	photomaker_fi.qm
+
+
+6. Danish	
+	photomaker_da.qm
+	
+
+7. Korean	
+	photomaker_ko.qm
+	
+
+8. Japanese	
+	photomaker_ja.qm
+	
+9. Dutch	
+	photomaker_nl.qm
+	
+
+10. Portuguese	
+	photomaker_pt.qm
+	
+
+11. French
+	photomaker_fr.qm
+	
+12. Spanish	
+	photomaker_es.qm
+	
+
+13. German	
+	photomaker_de.qm
+	
+14. Russian	
+	photomaker_ru.qm
+	
+15. Italian	
+	photomaker_it.qm
+	
+16. Norwegian	
+	photomaker_no.qm
+	
+17. Hungarian		
+	photomaker_hu.qm
+	
+18. Turkish
+	photomaker_tr.qm
+	
+
+19. Czech	
+	photomaker_cs.qm
+	
+
+20. Slovenian	
+	photomaker_sl.qm
+	
+21. Arabic
+	photomaker_ar.qm
+	
+
+22. Hindi	
+	photomaker_hi.qm
+	
+
+23. Hebrew	
+	photomaker_iw.qm
+	
+
+24. Vietnamese	
+	photomaker_vi.qm
+	

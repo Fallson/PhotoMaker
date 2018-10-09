@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoMaker", "PhotoMaker\PhotoMaker.vcxproj", "{06E00B33-7FA5-4BC2-805A-D0B62B6354BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResInfo", "ResInfo\ResInfo.vcxproj", "{6F0AEA89-BE7D-4201-A17E-30797D5D51F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResPublisher", "ResPublisher\ResPublisher.vcxproj", "{580F5089-0B11-4F5C-B547-B7A51535ECAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E00B33-7FA5-4BC2-805A-D0B62B6354BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06E00B33-7FA5-4BC2-805A-D0B62B6354BC}.Debug|Win32.Build.0 = Debug|Win32
+		{06E00B33-7FA5-4BC2-805A-D0B62B6354BC}.Release|Win32.ActiveCfg = Release|Win32
+		{06E00B33-7FA5-4BC2-805A-D0B62B6354BC}.Release|Win32.Build.0 = Release|Win32
+		{6F0AEA89-BE7D-4201-A17E-30797D5D51F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F0AEA89-BE7D-4201-A17E-30797D5D51F9}.Debug|Win32.Build.0 = Debug|Win32
+		{6F0AEA89-BE7D-4201-A17E-30797D5D51F9}.Release|Win32.ActiveCfg = Release|Win32
+		{6F0AEA89-BE7D-4201-A17E-30797D5D51F9}.Release|Win32.Build.0 = Release|Win32
+		{580F5089-0B11-4F5C-B547-B7A51535ECAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{580F5089-0B11-4F5C-B547-B7A51535ECAC}.Debug|Win32.Build.0 = Debug|Win32
+		{580F5089-0B11-4F5C-B547-B7A51535ECAC}.Release|Win32.ActiveCfg = Release|Win32
+		{580F5089-0B11-4F5C-B547-B7A51535ECAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
